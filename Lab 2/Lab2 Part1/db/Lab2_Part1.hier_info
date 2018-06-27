@@ -1,0 +1,8 @@
+|Lab2_Part1
+SW0 => C.IN0
+SW1 => C.IN1
+SW2 => D.IN0
+SW3 => D.IN1
+OUT << comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
